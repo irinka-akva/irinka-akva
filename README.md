@@ -8,6 +8,7 @@
 Я начинающий frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. В разработку пришла из сферы финансов и бухгалтерского учета. Начала заниматься разработкой чуть больше года назад, поняла, что хочу развиваться именно в направлении фронтенда, прошла несколько курсов по HTML, CSS, JavaScript, курс "Фронтенд-разработчик". Сейчас продолжаю совершенствовать свои навыки, изучаю React.js, а в свободное время занимаюсь разработкой pet-проекта.
 
 :mailbox: Как со мной связаться: [irinka-akva@ya.ru](mailto:irinka-akva@ya.ru)
+* ✉️  You can contact me at [irinka-akva@ya.ru](mailto:irinka-akva@ya.ru)
 
 ---
 
