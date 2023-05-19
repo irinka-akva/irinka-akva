@@ -1,14 +1,13 @@
 
-<h1 align="center">Привет 👋, меня зовут Ирина</h1>
+<h1>Привет 👋, меня зовут Ирина!</h1>
 
 ---
 
-### :man_technologist: Обо мне:
+### 👱‍♀️: Обо мне:
 
 Я начинающий frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. В разработку пришла из сферы финансов и бухгалтерского учета. Начала заниматься разработкой чуть больше года назад, поняла, что хочу развиваться именно в направлении фронтенда, прошла несколько курсов по HTML, CSS, JavaScript, курс "Фронтенд-разработчик". Сейчас продолжаю совершенствовать свои навыки, изучаю React.js, а в свободное время занимаюсь разработкой pet-проекта.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Irina_Ukraintseva-blue?style=flat&logo=Telegram&logoColor=white)]([https://t.me/f1llzzz](https://t.me/Irina_Ukraintseva)) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
-<!-- 
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Irina_Ukraintseva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Irina_Ukraintseva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 ---
 
 ### 🤝 Социальные сети:
@@ -82,10 +81,6 @@
 
 --- -->
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
-
 ### ⚙️ GitHub статистика:
 
 <table>
@@ -99,4 +94,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
