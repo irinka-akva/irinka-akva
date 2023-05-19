@@ -7,7 +7,7 @@
 
 Я начинающий frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. В разработку пришла из сферы финансов и бухгалтерского учета. Начала заниматься разработкой чуть больше года назад, поняла, что хочу развиваться именно в направлении фронтенда, прошла несколько курсов по HTML, CSS, JavaScript, курс "Фронтенд-разработчик". Сейчас продолжаю совершенствовать свои навыки, изучаю React.js, а в свободное время занимаюсь разработкой pet-проекта.
 
-:mailbox: Как со мной связаться: [![Gmail Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:irinka-akva@ya.ru)
+:mailbox: Как со мной связаться: [irinka-akva@ya.ru](mailto:irinka-akva@ya.ru)
 
 ### 🤝 Социальные сети:
 
@@ -18,6 +18,7 @@
     <a href="https://t.me/Irina_Ukraintseva" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
+  <a href="https://www.linkedin.com/in/ukr-irina/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://discord.com/users/Ирина Украинцева#0897" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="http://www.instagram.com/irinka_akvamarinka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
     <!--<a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
