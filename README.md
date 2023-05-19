@@ -9,14 +9,13 @@
 
 :mailbox: Как со мной связаться: [irinka-akva@ya.ru](mailto:irinka-akva@ya.ru)
 
+---
+
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ukr-irina/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
     <a href="https://t.me/Irina_Ukraintseva" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" />
     </a>
   <a href="https://www.linkedin.com/in/ukr-irina/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://discord.com/users/Ирина Украинцева#0897" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
