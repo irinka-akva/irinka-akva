@@ -54,6 +54,12 @@
 
 ---
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Irinka-akva)
+
+---
+
 <!-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
