@@ -56,7 +56,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Irinka-akva)
+![codewars](https://www.codewars.com/users/Irinka-akva/badges/large)
 
 ---
 
